@@ -1,7 +1,3 @@
 <h1> Hello Dear Students !! Welcome to DevOps Project-2 !! </h1>
 ------------------
-<h1> !! Complete CICD Pipline </h1>
-
-<h1> !! My Project !! </h1>
-
-<h1> !! Final Testing !! >/h1>
+<h1> !! CI CI Pipline Project </h1>
